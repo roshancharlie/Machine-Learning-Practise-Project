@@ -7,7 +7,7 @@
 ### 3. KNearest Neighbour With Unknown Target Classification Data
 ### 4. Decision Tree and Random Forest With Loan Data
 ### 5. Support Vector Machine with Breast Cancer and Iris Dataset
-
+### 6. K Means Clustering Project On College Data
 
 
 <div align="center">
