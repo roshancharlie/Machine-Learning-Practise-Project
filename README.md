@@ -9,7 +9,7 @@
 ### 5. Support Vector Machine with Breast Cancer and Iris Dataset
 ### 6. K Means Clustering Project On College Data
 ### 7. PCA Project on Breast Cancer Data
-
+### 8. NLP Project with Yelp data
 
 <div align="center">
 <h3> Connect with me<a href="https://gifyu.com/image/Zy2f"><img src="https://github.com/milaan9/milaan9/blob/main/Handshake.gif" width="60"></a>
